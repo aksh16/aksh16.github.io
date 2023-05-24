@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Not so random thoughts</title>
+    <link>https://aksh16.github.io/</link>
+    <description>Recent content on Not so random thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 May 2023 17:48:50 -0700</lastBuildDate><atom:link href="https://aksh16.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics of Assembly</title>
+      <link>https://aksh16.github.io/posts/basic-assembly/</link>
+      <pubDate>Tue, 23 May 2023 17:48:50 -0700</pubDate>
+      
+      <guid>https://aksh16.github.io/posts/basic-assembly/</guid>
+      <description>Why would you care about assembly? Well ideally you won&amp;rsquo;t.
+A typical programmer today works mostly with a high level programming language that is so far away from actual CPU instructions and low level memory (What is low level memory? Keep reading and you will find out) that the compiler and the OS work out the details without the programmer having to worry about it. That is how most businesses would want to people to work.</description>
+    </item>
+    
+  </channel>
+</rss>

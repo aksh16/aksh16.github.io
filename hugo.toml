@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://aksh16.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Not so random thoughts'
 theme = 'hugo-PaperMod'
 
